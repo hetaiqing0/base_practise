@@ -13,15 +13,6 @@ public class Test {
         // 开始执行
         long start = System.currentTimeMillis();
         /*=========================================================*/
-        List<Object> objs = new ArrayList<>();
-        objs.add("a");
-        objs.add("b");
-        objs.add("c");
-        objs.add("d");
-
-        for (Object obj : objs) {
-            System.out.println(obj);
-        }
 
         /*=========================================================*/
         // 结束执行
