@@ -6,7 +6,7 @@ public class Test {
         // 开始执行
         long start = System.currentTimeMillis();
         /*=========================================================*/
-        System.out.println("This is the branch of master");
+        System.out.println("This is a new branch of master");
         /*=========================================================*/
         // 结束执行
         long end = System.currentTimeMillis();
