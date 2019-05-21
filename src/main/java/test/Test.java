@@ -1,7 +1,7 @@
 package test;
 
 public class Test {
-    public static void main(String[] args) throws NoSuchFieldException, IllegalAccessException {
+    public static void main(String[] args) {
 
         // 开始执行
         long start = System.currentTimeMillis();
